@@ -1,4 +1,10 @@
-**WP Query Console**
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/1039236/24117468/5e8e9174-0dd0-11e7-9f15-33a517549b02.png"></p>
+
+<p align="center">
+<a href="https://wordpress.org/plugins/wp-query-console/"><img src="https://img.shields.io/wordpress/plugin/v/wp-query-console.svg" alt="Latest Stable Version"></a> <a href="https://wordpress.org/plugins/wp-query-console/"><img src="https://img.shields.io/wordpress/v/wp-query-console.svg" alt="Version Tested"></a> <a href="https://wordpress.org/plugins/wp-query-console/"><img src="https://img.shields.io/wordpress/plugin/dt/wp-query-console.svg" alt="Downloads"></a> <a href="https://wordpress.org/plugins/wp-query-console/"><img src="https://img.shields.io/wordpress/plugin/r/wp-query-console.svg" alt="Rating"></a> <a href="https://wordpress.org/plugins/wp-query-console/"><img src="https://img.shields.io/aur/license/yaourt.svg" alt="Licence"></a>
+</p>
+
+**Introduction**
 -----------------------------
 Handy tool for developers to quickly test various WordPress queries (WP_Query, WP_User_Query, WP_Comment_Query, WP_Term_Query, WP_Network_Query, WP_Site_Query). Simply provide your arguments array and select the query type you would like to test. You will get the result as a collapsible tree.
 
@@ -14,6 +20,7 @@ Handy tool for developers to quickly test various WordPress queries (WP_Query, W
 We have been using this simple script for quickly testing various queries during development. We have packed this script as WordPress plugin for other to use.
 
 **Roadmap**
+-----------
 
  - More info about query for debugging
  - Code refactoring and improvement
@@ -59,7 +66,7 @@ Maintained by [Ajit Bohra](http://https://twitter.com/ajitbohra)
 
 **About LUBUS**
 ---------------
-LUBUS is a WordPress & Laravel agency based in Mumbai. More about us could be found here [on our website](http://lubus.in).
+[LUBUS](http://lubus.in) is a web design agency based in Mumbai.
 
 **License**
 -----------
