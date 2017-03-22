@@ -53,7 +53,7 @@ If you have any suggestions/Feature request that you would like to see in the up
 ----------------
 
 Thank you for considering contributing to the WordCamp Dashboard Widget. You can read the contribution guide lines [here](CONTRIBUTING.md)
-
+You can check development tasklist [here](https://github.com/lubusIN/WP-Query-Console/projects/1)
 **Security**
 ------------
 
@@ -66,7 +66,7 @@ Maintained by [Ajit Bohra](http://https://twitter.com/ajitbohra)
 
 **About LUBUS**
 ---------------
-[LUBUS](http://lubus.in) is a web design agency based in Mumbai.
+[LUBUS](http://lubus.in) WordPress & Laravel agency based in Mumbai.
 
 **License**
 -----------
