@@ -52,7 +52,9 @@ If you have any suggestions/Feature request that you would like to see in the up
 **Contributing**
 ----------------
 
-Thank you for considering contributing to the WordCamp Dashboard Widget. You can read the contribution guide lines [here](CONTRIBUTING.md)
+Thank you for considering contributing to the `WP Query Console`. You can read the contribution guide lines [here](CONTRIBUTING.md)
+
+Check the development tasklist [here](https://github.com/lubusIN/WP-Query-Console/projects/1) if something interest you or suggest something [here](https://github.com/lubusIN/wp-query-console/issues)
 
 **Security**
 ------------
