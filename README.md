@@ -17,7 +17,7 @@ Handy tool for developers to quickly test various WordPress queries (WP_Query, W
 
 **About**
 
-We have been using this simple script for quickly testing various queries during development. We have packed this script as WordPress plugin for other to use.
+We have been using this simple script for quickly testing various queries during development. We have packed this script as WordPress plugin for others to use.
 
 **Roadmap**
 -----------
@@ -28,7 +28,7 @@ We have been using this simple script for quickly testing various queries during
  - Saving queries
  - Localization
 
-If you have any suggestions/Feature request that you would like to see in the upcoming releases , feel free to let us know in the [issues section](https://github.com/lubusIN/wp-query-console/issues)
+If you have any suggestions/feature request that you would like to see in the upcoming releases , feel free to let us know in the [issues section](https://github.com/lubusIN/wp-query-console/issues)
 
 
 **Installation**
