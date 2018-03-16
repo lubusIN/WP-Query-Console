@@ -2,13 +2,18 @@
 /**
  * Contributors: lubus, ajitbohra
  * Plugin Name: WP Query Console
+ * Plugin URI: https://www.lubus.in
  * Description: A plugin to quickly test various WP Queries
- * Author: <a href="http://www.lubus.in">LUBUS</a>
- * Version: 0.1
- * Tags: admin, query, console, developer
+ * Author: LUBUS
+ * Author URI: https://lubus.in
+ * Version: 1.0
+ * Text Domain: wqc
+ * Domain Path: /languages
+ * GitHub Plugin URI: https://github.com/lubusIN/WP-Query-Console
+ * Tags: admin, test, query, development
  * Requires at least: 3.0.1
- * Tested up to:  4.7.2
- * Stable tag: 0.1
+ * Tested up to:  4.9.4
+ * Stable tag: 1.0
  * License: GPLv3 or later
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  *
