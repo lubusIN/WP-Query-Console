@@ -1,0 +1,21 @@
+{
+	"presets": [
+		[
+			"env",
+			{
+				"modules": false
+			}
+		]
+	],
+	"plugins": [
+		"transform-object-rest-spread",
+		"transform-react-jsx"
+	],
+	"env": {
+		"default": {
+			"plugins": [
+				"transform-runtime"
+			]
+		}
+	}
+}

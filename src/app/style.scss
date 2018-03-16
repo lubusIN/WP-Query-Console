@@ -1,0 +1,15 @@
+
+/* WP_Query Console */
+.CodeMirror {
+    height: 200px !important;
+}
+
+/* Form */
+#wpqc-query-type { margin-top: 10px }
+#wpqc-type-label { margin-top: 13px; margin-right: 5px; display: block; float: left; }
+#wpqc-btn-execute { margin-top: 10px; float: right; clear: none}
+#wpqc-btn-execute i { margin-top: 3px; }
+/* Result */
+#lwqc_query_result{ padding: 23px }
+#lwqc_query_result .welcome-panel-content #no-data { text-align: center }
+#lwqc_query_result .welcome-panel-content h2{ color: gray }
