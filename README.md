@@ -65,7 +65,7 @@ Maintained by [Ajit Bohra](http://https://twitter.com/ajitbohra)
 ##  Support Us
 [LUBUS](http://lubus.in) is a web design agency based in Mumbai, India.
 
-You can pledge on [patreon](https://www.patreon.com/lubus) to support the development & maintenance of Gymie and other [opensource](https://github.com/lubusIN/) stuff we are building.
+You can pledge on [patreon](https://www.patreon.com/lubus) to support the development & maintenance of various [opensource](https://github.com/lubusIN/) stuff we are building.
 
 **License**
 
