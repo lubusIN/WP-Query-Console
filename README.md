@@ -6,7 +6,7 @@
 </p>
 
 ## Introduction
------------------------------
+
 Handy tool for developers to quickly test various WordPress queries (WP_Query, WP_User_Query, WP_Comment_Query, WP_Term_Query, WP_Network_Query, WP_Site_Query). Simply provide your arguments array and select the query type you would like to test. You will get the result as a collapsible tree.
 
 ## Screenshot
@@ -16,7 +16,6 @@ Handy tool for developers to quickly test various WordPress queries (WP_Query, W
 >**Disclaimer:** Plugin development is in progress & we are constantly improving the code. If you think code can be improved or have any suggestion feel free to send a PR or [open an issue](https://github.com/lubusIN/wp-query-console/issues).
 
 ## Roadmap
------------
 
  - More info about query for debugging
  - Code refactoring and improvement
@@ -28,7 +27,7 @@ If you have any suggestions/feature request that you would like to see in the up
 
 
 ## Installation
-----------------
+
 ***From your WordPress dashboard***
  1. Visit 'Plugins > Add New'
  2. Search for `WP Query Console`  or upload zip file
@@ -40,29 +39,26 @@ If you have any suggestions/feature request that you would like to see in the up
  3. Activate `WP Query Console` from your Plugins page.
 
 ## Usage
-----------------
+
 - Simply activate and new menu option "Query Console" will be added
 - Enter you query arguments array in editor provided, select query type from dropdown & hit execute
 - Check the result displayed
 
 ## Changelog
--------------
+
 Please see the [Changelog](https://github.com/lubusIN/wp-query-console/blob/master/CHANGELOG.md) for the details.
 
 ## Contributing
-----------------
 
 Thank you for considering contributing to the `WP Query Console`. You can read the contribution guide lines [here](CONTRIBUTING.md)
 
 Check the development tasklist [here](https://github.com/lubusIN/WP-Query-Console/projects/1) if something interest you or suggest something [here](https://github.com/lubusIN/wp-query-console/issues)
 
 ## Security
-------------
 
 If you discover any security related issues, please email to [ajit@lubus.in](mailto:ajit@lubus.com) instead of using the issue tracker.
 
 ## Credits
-------------
 
 Maintained by [Ajit Bohra](http://https://twitter.com/ajitbohra)
 
@@ -72,5 +68,5 @@ Maintained by [Ajit Bohra](http://https://twitter.com/ajitbohra)
 You can pledge on [patreon](https://www.patreon.com/lubus) to support the development & maintenance of Gymie and other [opensource](https://github.com/lubusIN/) stuff we are building.
 
 **License**
------------
+
 WP Query Console is open-sourced software licensed under the [GPL 3.0 license](LICENSE)
