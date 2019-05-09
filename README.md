@@ -13,7 +13,7 @@ Handy tool for developers to quickly test various WordPress queries (WP_Query, W
 ![Plugin Screenshot](https://raw.githubusercontent.com/lubusIN/wp-query-console/master/assets/screenshot-1.gif)
 
 
->**Disclaimer:** Plugin development is in progress & we are constantly improving the code. If you think code can be improved or have any suggestion feel free to send a PR or [open an issue](https://github.com/lubusIN/wp-query-console/issues).
+>**Disclaimer:** Plugin development is in progress & we are constantly improving the code. If you think code can be improved or have any suggestions, feel free to send a PR or [open an issue](https://github.com/lubusIN/wp-query-console/issues).
 
 ## Roadmap
 
@@ -22,9 +22,6 @@ Handy tool for developers to quickly test various WordPress queries (WP_Query, W
  - UI for arguments
  - Saving queries
  - Localization
-
-If you have any suggestions/feature request that you would like to see in the upcoming releases , feel free to let us know in the [issues section](https://github.com/lubusIN/wp-query-console/issues)
-
 
 ## Installation
 
@@ -48,11 +45,15 @@ If you have any suggestions/feature request that you would like to see in the up
 
 Please see the [Changelog](https://github.com/lubusIN/wp-query-console/blob/master/CHANGELOG.md) for the details.
 
+## Feedback / Suggestions
+
+If you have any suggestions/feature request that you would like to see in the upcoming releases, feel free to let us know in the [issues section](https://github.com/lubusIN/wp-query-console/issues)
+
 ## Contributing
 
-Thank you for considering contributing to the `WP Query Console`. You can read the contribution guide lines [here](CONTRIBUTING.md)
+Thank you in advance if you wish to contribute to the `WP Query Console`. You can read the contribution guidelines [here](CONTRIBUTING.md)
 
-Check the development tasklist [here](https://github.com/lubusIN/WP-Query-Console/projects/1) if something interest you or suggest something [here](https://github.com/lubusIN/wp-query-console/issues)
+Check the development tasklist [here](https://github.com/lubusIN/WP-Query-Console/projects/1), if something interests you or want to suggest something click [here](https://github.com/lubusIN/wp-query-console/issues)
 
 ## Security
 
@@ -65,8 +66,8 @@ Maintained by [Ajit Bohra](http://https://twitter.com/ajitbohra)
 ##  Support Us
 [LUBUS](http://lubus.in) is a web design agency based in Mumbai, India.
 
-You can pledge on [patreon](https://www.patreon.com/lubus) to support the development & maintenance of various [opensource](https://github.com/lubusIN/) stuff we are building.
+You can pledge on [patreon](https://www.patreon.com/lubus) to support the development & maintenance of various [opensource](https://github.com/lubusIN/) stuffs we are building.
 
 **License**
 
-WP Query Console is open-sourced software licensed under the [GPL 3.0 license](LICENSE)
+WP Query Console is an open-source software licensed under the [GPL 3.0 license](LICENSE)
