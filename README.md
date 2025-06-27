@@ -63,10 +63,13 @@ If you discover any security related issues, please email to [ajit@lubus.in](mai
 
 Maintained by [Ajit Bohra](http://https://twitter.com/ajitbohra)
 
-##  Support Us
-[LUBUS](http://lubus.in) is a web design agency based in Mumbai, India.
+## Meet Your Artisans
 
-You can pledge on [patreon](https://www.patreon.com/lubus) to support the development & maintenance of various [opensource](https://github.com/lubusIN/) stuffs we are building.
+[LUBUS](http://lubus.in) is a web design agency based in Mumbai.
+
+<a href="https://cal.com/lubus">
+<img src="https://raw.githubusercontent.com/lubusIN/.github/refs/heads/main/profile/banner.png" />
+</a>
 
 **License**
 
